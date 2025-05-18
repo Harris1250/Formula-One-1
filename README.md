@@ -69,8 +69,10 @@ Formula1-Predictor/
 ### 🏢 Constructor Predictions
 ![Constructor Predictions](screenshots/constructor%20prediction.png)
 
-### 🗓️ F1 Calendar & Model Output
+### 🗓️ F1 Calendar
 ![F1 Calendar 2025](screenshots/F1%20Calender%202025.png)  
+
+### F1 Model Output
 ![Model Output](screenshots/output.png)
 
 ---
