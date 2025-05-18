@@ -54,25 +54,25 @@ Formula1-Predictor/
 ![Homepage Preview](screenshots/homepage1.png)  
 ![Homepage Alt View](screenshots/homepage2.png)
 
-### 🧑‍🚀 2025 F1 Drivers Overview
+### 🧑‍✈️ F1 2025 Driver Lineup Cards
 ![Drivers Overview 1](screenshots/drivers1.png)  
 ![Drivers Overview 2](screenshots/drivers2.png)
 
-### 🛣️ Tracks
+### 🛣️ Circuit & Track Visuals
 ![Track View 1](screenshots/tracks1.png)  
 ![Track View 2](screenshots/tracks2.png)
 
-### 🧠 Driver Performance Table
+### 📊 Driver Performance Table (2021–2025)
 ![Driver Predictions](screenshots/driver%20prediction.png)
 
 
-### 🏢 Constructor Predictions
+### 🏢 Constructor Standings Forecast
 ![Constructor Predictions](screenshots/constructor%20prediction.png)
 
-### 🗓️ F1 Calendar
+### 🗓️ Official 2025 Race Calendar
 ![F1 Calendar 2025](screenshots/F1%20Calender%202025.png)  
 
-### F1 Model Output
+### 📈 Final Model Output
 ![Model Output](screenshots/output.png)
 
 ---
