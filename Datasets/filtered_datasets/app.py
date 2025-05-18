@@ -13,6 +13,16 @@ def homepage():
 
     return render_template('homepage.html', driver_html=driver_html, constructor_html=constructor_html)
 
+@app.route('/predictor')
+def predictor():
+    driver_data = pd.read_csv("DriverPredictions2025_withForecast.csv")
+    constructor_data = pd.read_csv("ConstructorPrediction_withForecast.csv")
+
+    driver_html = driver_data.to_html(classes='table table-bordered', index=False)
+    constructor_html = constructor_data.to_html(classes='table table-bordered', index=False)
+
+    return render_template('predictor.html', driver_html=driver_html, constructor_html=constructor_html)
+
 @app.route('/teams')
 def teams():
     return render_template('teams.html')
@@ -25,17 +35,6 @@ def cars():
 def tracks():
     return render_template('tracks.html')
 
-@app.route('/predictor')
-def predictor():
-    driver_data = pd.read_csv("DriverPredictions2025_withForecast.csv")
-    constructor_data = pd.read_csv("ConstructorPrediction_withForecast.csv")
-
-    driver_html = driver_data.to_html(classes='table table-bordered', index=False)
-    constructor_html = constructor_data.to_html(classes='table table-bordered', index=False)
-
-    return render_template('predictor.html', driver_html=driver_html, constructor_html=constructor_html)
-
 if __name__ == '__main__':
     print("✅ RUNNING THE CORRECT FILE!")
-    app.run(debug=True, host='0.0.0.0', port=5000)
-
+    app.run(debug=True)
