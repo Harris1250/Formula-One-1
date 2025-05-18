@@ -104,8 +104,6 @@ Deploy or test in your Azure Virtual Machine if needed.
 
 **Muhammad Nadeem**  
 📍 Atlanta, GA  
-🔗 [Portfolio Website](https://harris1250.github.io/muhammad-portfolio)  
-🐙 [GitHub](https://github.com/Harris1250)  
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-nadeem-977683251)
 
 ---
