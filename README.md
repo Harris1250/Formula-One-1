@@ -54,9 +54,9 @@ Formula1-Predictor/
 ![Homepage Preview](screenshots/homepage1.png)  
 ![Homepage Alt View](screenshots/homepage2.png)
 
-### 🚗 Cars
-![Cars View 1](screenshots/cars1.png)  
-![Cars View 2](screenshots/cars2.png)
+### 🧑‍🚀 2025 F1 Drivers Overview
+![Drivers Overview 1](screenshots/drivers1.png)  
+![Drivers Overview 2](screenshots/drivers2.png)
 
 ### 🛣️ Tracks
 ![Track View 1](screenshots/tracks1.png)  
@@ -65,9 +65,6 @@ Formula1-Predictor/
 ### 🧠 Driver Performance Table
 ![Driver Predictions](screenshots/driver%20prediction.png)
 
-### 🧑‍🚀 2025 F1 Drivers Overview
-![Drivers Overview 1](screenshots/drivers1.png)  
-![Drivers Overview 2](screenshots/drivers2.png)
 
 ### 🏢 Constructor Predictions
 ![Constructor Predictions](screenshots/constructor%20prediction.png)
