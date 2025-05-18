@@ -52,7 +52,7 @@ Formula1-Predictor/
 
 ### 🏁 Homepage
 ![Homepage Preview](screenshots/homepage1.png)  
-![Homepage Alt View](screenshots/homepage3.png)
+![Homepage Alt View](screenshots/homepage2.png)
 
 ### 🧑‍✈️ F1 2025 Driver Lineup Cards
 ![Drivers Overview 1](screenshots/drivers1.png)  
